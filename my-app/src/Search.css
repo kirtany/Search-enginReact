@@ -67,3 +67,7 @@
     white-space: nowrap;
   }
   
+  .weather-description {
+    text-align: center;
+    list-style: none;
+  }
